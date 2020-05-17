@@ -1,0 +1,5 @@
+rootProject.name = 'Catalogue-gRPC-API'
+include 'Catalogue-common'
+include 'Catalogue-client'
+include 'Catalogue-server'
+
